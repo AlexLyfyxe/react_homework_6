@@ -33,7 +33,7 @@ export default function Weather() {
 
   return (
     <>
-      <h1 style={{fontSize: '50px'}}>Weather App</h1>
+      <h1 style={{fontSize: '50px'}}>Weather</h1>
       <input  style={{
         padding: '10px', fontSize: '25px', border: '2px solid #ccc', borderTopLeftRadius: '8px', borderBottomLeftRadius: '8px'
         }}
